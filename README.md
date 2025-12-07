@@ -194,16 +194,20 @@ I used a dedicated measure table, 30+ DAX calculations, and a professional Spoti
 
 ## 📸 Dashboard Preview
 
-Spotify Home Page Screenshot:
+**Spotify Home Page Screenshot:**
+
 <img width="1554" height="869" alt="Spotify Home Page Screenshot" src="https://github.com/user-attachments/assets/fc723e74-79c1-44e5-b395-98100ce75f06" />
 
-Spotify Overview Page Screenshot:
+**Spotify Overview Page Screenshot:**
+
 <img width="1552" height="872" alt="Spotify Overview Page Screenshot" src="https://github.com/user-attachments/assets/1e4b2550-9a94-4c72-8a0b-69e736836de6" />
 
-Spotify Artist Page Screenshot:
+**Spotify Artist Page Screenshot:**
+
 <img width="1553" height="876" alt="Spotify Artist Page Screenshot" src="https://github.com/user-attachments/assets/b1ddc38c-7064-48ed-a403-32f82e8070d6" />
 
-Spotify Songs Page Screenshot:
+**Spotify Songs Page Screenshot:**
+
 <img width="1555" height="871" alt="Spotify Songs Page Screenshot" src="https://github.com/user-attachments/assets/05fdd484-736f-41f1-ba14-218c358978c3" />
 
 
