@@ -188,7 +188,6 @@ I used a dedicated measure table, 30+ DAX calculations, and a professional Spoti
 │── Spotify Overview Page Screenshot.png
 │── Spotify Artist Page Screenshot.png
 │── Spotify Songs Page Screenshot.png
-│── /assets  (optional - for future images, thumbnails)
 
 
 ---
